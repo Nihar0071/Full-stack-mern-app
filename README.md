@@ -40,7 +40,7 @@ npm --version
 Clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/YourUsername/YourRepositoryName.git](https://github.com/Nihar0071/Full-stack-mern-app )
+git clone https://github.com/Nihar0071/Full-stack-mern-app
 cd mern-estate-main
 ```
 
